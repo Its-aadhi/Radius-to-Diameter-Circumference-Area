@@ -25,3 +25,10 @@ A C program that will ask the user for a radius of a circle (a floating-point nu
     return 0;
 
     }
+
+**Sample Run:**
+
+    Please enter a radius of a circle: 123.45
+    The diameter of the circle is 246.90
+    The circumference of the circle is 775.66
+    The area of the circle is 47877.53
